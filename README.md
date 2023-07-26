@@ -8,10 +8,7 @@ cha›Hi, I'm Jhon Louies, an <a href-"https://www.linkedin.com/in/jhon-louies-s
 - [Network Security Groups (N5Gs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
   
 <h2> ' Connect with me:</h2>
-                         
-[ing align-"left" alt-" | Twitter" width-"22px" src="https://cdn.isdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /›][twitter]
-[ring align-"left" alt="Jhon Louies | LinkedIn" width="22px" src-"https://cdn_jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /›][linkedin]
-[img align-"left" alt-" | Instagram" width- "22px" src-"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /›][instagram]
+                      
 
 [twitter]: https://twitter.com/..
 [instagram]: https://www.instagram.com/..
