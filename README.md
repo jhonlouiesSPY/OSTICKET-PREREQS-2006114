@@ -1,4 +1,4 @@
-cha›Hi, I'm Jhon Louies, an <a href-"https://linkedin.com/in/JhonLouies Sanchez">IT Professional</a›9</h1> <h2> a Information Technology Projects:</h2>
+cha›Hi, I'm Jhon Louies, an <a href-"https://linkedin.com/in/JhonLouiesSanchez">IT Professional</a›9</h1> <h2> a Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
 - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-preregs)
 [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
