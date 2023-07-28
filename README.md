@@ -6,6 +6,8 @@ Hi, I'm Jhon Louies, an "https://www.linkedin.com/in/jhon-louies-sanchez-6627a02
 - <b›Microsoft Azures/b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - [Network Security Groups (N5Gs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+https://docs.google.com/document/d/1jr-CM41wlqnmBRL-_ePMWQ6E5MjUytJZgV9zOxSEgKY/edit?usp=sharing
   
 <h2> ' Connect with me:</h2>
                       
