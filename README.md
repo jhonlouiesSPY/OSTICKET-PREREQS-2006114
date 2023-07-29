@@ -149,19 +149,6 @@ Install a program called "HeidiSQl" (can be searched online) that OsTicketing Sy
 </body>
 </html>
 
-
-
-
-
-
-  
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/Dm38qAa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/Vg67uNm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 You should see a congratulations screen in the browser window if everything was done correctly. Clients are now able to successfully create help desk tickets. That concludes the lab.
 </p>
@@ -176,7 +163,19 @@ You should see a congratulations screen in the browser window if everything was 
 
 
 
-
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <i class="fa-envelope"</i>
+    <p><a href="osTicket">osTicket: Prerequisites and Installation</a></p>
+</head>
+<body>
+  
+</body>
+</html>
 
 
 
