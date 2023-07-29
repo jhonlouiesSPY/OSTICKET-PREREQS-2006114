@@ -123,6 +123,26 @@ After all previous steps are complete, the OsTicketing system should be fully fu
 </p>
 <p>
 Install a program called "HeidiSQl" (can be searched online) that OsTicketing System uses to connect with Databases. Create a new "database" to be used with the new ticketing setup titled "OsTicket". Now, finish filling out the information in the OsTicket browser (MySQL will be the new database's name) and use whichever username and password that you created earlier in the lab. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </p>
 <br />
 
