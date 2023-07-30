@@ -9,7 +9,7 @@
 ・<a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket: Ticket Lifecycle Exmple</a>
 
 - <b›Microsoft Azures/b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+- <a href="https://github.com/jhonlouiesSPY/gaaraHTML-gethub.io">Configuring On-premises Active Directory within Azure VMs</a>
 - [Network Security Groups (N5Gs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
