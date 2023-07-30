@@ -1,16 +1,12 @@
-Hi, I'm Jhon Louies, an "https://www.linkedin.com/in/jhon-louies-sanchez-6627a0284" IT Professional <h2> a Information Technology Projects:</h2>
+Hi, I'm Jhon Louies, an　<a href="https://www.linkedin.com/in/jhon-louies-sanchez-6627a0284">IT Professional</a>
+　 <h2> a Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
 
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- ・
-  <body>
-  <a href="https://jhonlouiesspy.github.io/jhonlouiesSPY.gethub.io/">osTicket-Prerequruisites and Installation</a>
-</body>
-</html>
+
+ 
+  
+ ・ <a href="https://jhonlouiesspy.github.io/jhonlouiesSPY.gethub.io/">osTicket-Prerequruisites and Installation</a>
 
 
 - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
