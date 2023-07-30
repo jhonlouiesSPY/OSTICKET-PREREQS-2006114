@@ -28,25 +28,3 @@ Hi, I'm Jhon Louies, an "https://www.linkedin.com/in/jhon-louies-sanchez-6627a02
 </html>
 
 
-<!DOCTYPE html> 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <i class="fa-envelope"</i>
-    <p><a href="osTicket">osTicket: Prerequisites and Installation</a></p>
-</head>
-<body>
-  
-</body>
-</html>
-
-<p>
-You should see a congratulations screen in the browser window if everything was done correctly. Clients are now able to successfully create help desk tickets. That concludes the lab.
-</p>
-<br />
-</body>
-</html>
-
-
