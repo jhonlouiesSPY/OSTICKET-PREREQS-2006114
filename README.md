@@ -8,7 +8,7 @@
  
 - <a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket: Ticket Lifecycle Exmple</a>
 
-- <b›Microsoft Azures/b>
+- Microsoft Azures
 - <a href="https://github.com/jhonlouiesSPY/gaaraHTML-gethub.io">Configuring On-premises Active Directory within Azure VMs</a>
 - <a href="https://github.com/jhonlouiesSPY/post-intall-config/blob/main/README.md">Configuring On-premises Active Directory within Azure VMs</a>
 
