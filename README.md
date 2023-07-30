@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jhon Louies Sanchez</h1>
 <h3 align="center"><a href="https://www.linkedin.com/in/jhon-louies-sanchez-6627a0284">IT Professional</a></h3>
 
-
 　 <h2> a Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  
- ・ <a href="https://jhonlouiesspy.github.io/jhonlouiesSPY.gethub.io/">osTicket-Prerequruisites and Installation</a>
+ ・<a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket-Prerequruisite and Installation</a>
  
-・<a href="https://jhonlouiesspy.github.io/jhonlouiesSPY.gethub.io/">osTicket: Ticket Lifecycle Examples</a>
-
-
+・<a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket: Ticket Lifecycle Exmple</a>
 
 - <b›Microsoft Azures/b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
