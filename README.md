@@ -7,9 +7,11 @@ Hi, I'm Jhon Louies, an　<a href="https://www.linkedin.com/in/jhon-louies-sanch
  
   
  ・ <a href="https://jhonlouiesspy.github.io/jhonlouiesSPY.gethub.io/">osTicket-Prerequruisites and Installation</a>
+ 
+・<a href="https://jhonlouiesspy.github.io/jhonlouiesSPY.gethub.io/">osTicket: Ticket Lifecycle Examples</a>
 
 
-- [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+
 - <b›Microsoft Azures/b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - [Network Security Groups (N5Gs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
