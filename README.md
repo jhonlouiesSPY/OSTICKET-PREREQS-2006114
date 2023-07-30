@@ -7,7 +7,14 @@ Hi, I'm Jhon Louies, an "https://www.linkedin.com/in/jhon-louies-sanchez-6627a02
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - [Network Security Groups (N5Gs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-<p align="center">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -153,31 +160,7 @@ Install a program called "HeidiSQl" (can be searched online) that OsTicketing Sy
 You should see a congratulations screen in the browser window if everything was done correctly. Clients are now able to successfully create help desk tickets. That concludes the lab.
 </p>
 <br />
-  
-<h2> ' Connect with me:</h2>
-                      
-
-[twitter]: https://twitter.com/..
-[instagram]: https://www.instagram.com/.
-
-
-
-
-<!DOCTYPE html> 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <i class="fa-envelope"</i>
-    <p><a href="osTicket">osTicket: Prerequisites and Installation</a></p>
-</head>
-<body>
-  
 </body>
 </html>
 
 
-
-.
-Clinkedinl: https://linkedin.com/in/jhon-louies-sanchez-6627a0284 
