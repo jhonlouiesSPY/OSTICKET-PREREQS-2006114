@@ -1,4 +1,8 @@
 Hi, I'm Jhon Louies, an　<a href="https://www.linkedin.com/in/jhon-louies-sanchez-6627a0284">IT Professional</a>
+
+<h1 align="center">Hi 👋, I'm Jhon Louies Sanchez</h1>
+<h3 align="center">A passionate frontend developer from Japan</h3>
+
 　 <h2> a Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
 
