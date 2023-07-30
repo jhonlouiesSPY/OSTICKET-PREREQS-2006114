@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonlouiesspy&label=Profile%20views&color=0e75b6&style=flat" alt="jhonlouiesspy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jhonlouies" target="blank"><img src="https://img.shields.io/twitter/follow/jhonlouies?logo=twitter&style=for-the-badge" alt="jhonlouies" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jhonlouies111" target="blank"><img src="https://img.shields.io/twitter/follow/@jhonlouies111?logo=twitter&style=for-the-badge" alt="jhonlouies" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
