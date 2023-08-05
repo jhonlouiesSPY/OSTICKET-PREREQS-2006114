@@ -5,6 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
  - <a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket-Prerequruisite and Installation</a>
+
+ - <a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket post-installation </a>
  
 - <a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket: Ticket Lifecycle Exmple</a>
 
