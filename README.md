@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhon Louies Sanchez</h1>
 <h3 align="center"><a href="https://www.linkedin.com/in/jhon-louies-sanchez-6627a0284">IT Professional</a></h3>
 
-　 <h2> a Information Technology Projects:</h2>
+　 <h2> 📑 Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
 
  - <a href="https://github.com/jhonlouiesSPY/jhonlouiesSPY.gethub.io">osTicket-Prerequruisite and Installation</a>
@@ -10,7 +10,7 @@
 
 - Microsoft Azures
 - <a href="https://github.com/jhonlouiesSPY/gaaraHTML-gethub.io">Configuring On-premises Active Directory within Azure VMs</a>
-- <a href="https://github.com/jhonlouiesSPY/post-intall-config/blob/main/README.md">Configuring On-premises Active Directory within Azure VMs</a>
+- <a href="https://github.com/jhonlouiesSPY/post-intall-config/blob/main/README.md">Network security group (NSDs) and Inspecting Network Protocols</a>
 
 
 
