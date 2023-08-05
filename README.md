@@ -19,11 +19,11 @@
 
 <p align="left"> <a href="https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/@jhonLouies111?logo=twitter&style=for-the-badge" alt="https://twitter.com/jhonLouies111" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **IT**
 
 - 👨‍💻 All of my projects are available at [sjhonlouies75@gmail.com](sjhonlouies75@gmail.com)
 
-- 💬 Ask me about **osTicket,Active Directory**
+- 💬 Ask me about **IT Help Desk, IT Security specialist**
 
 - ⚡ Fun fact **I think I am Fanny**
 
