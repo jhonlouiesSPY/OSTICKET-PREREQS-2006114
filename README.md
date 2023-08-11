@@ -40,9 +40,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonlouiesspy&show_icons=true&locale=en&layout=compact" alt="jhonlouiesspy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonlouiesspy&show_icons=true&locale=en" alt="jhonlouiesspy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonlouiesspy&" alt="jhonlouiesspy" /></p>
+
 
 
 
